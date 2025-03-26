@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZachP-SNHU
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in finding a job in game and software development or technical animation
 - 🌱 I’m currently learning game programming and development at SNHU
 - 💞️ I’m looking to collaborate on Game Jams
-- 📫 How to reach me: Email!
+- 📫 How to reach me: Through the contact page on my website PettyPixels.dev/contact
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can barely afford to eat!
