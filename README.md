@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Game Jams
 - 📫 How to reach me: https://PettyPixels.dev
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can barely afford to eat!
+- ⚡ Fun fact: I wrestled an alligator and won!
